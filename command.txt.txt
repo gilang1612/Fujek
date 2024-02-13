@@ -1,0 +1,8 @@
+prefix : ai|
+command: [
+- steal
+]
+
+how to use:
+prefix+command:
+ai|steal
